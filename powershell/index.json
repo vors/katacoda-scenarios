@@ -1,0 +1,26 @@
+{
+  "title": "PowerShell test Scenario",
+  "description": "Your First Scenario",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive PowerShell Terminal.\r\nStart by running `Get-Help`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "microsoft/powershell"
+  }
+}
