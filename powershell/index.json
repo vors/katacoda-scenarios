@@ -21,6 +21,6 @@
     "uimessage1": "\u001b[32mYour Interactive PowerShell Terminal.\r\nStart by running `Get-Help`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "microsoft/powershell"
+    "imageid": "bi3v3rojt9wjqdu3fklmiik"
   }
 }
